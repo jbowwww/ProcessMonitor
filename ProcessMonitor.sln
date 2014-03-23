@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitor", "ProcessMonitor.csproj", "{F6C7AFEF-8A71-4137-90FF-BDFED2262279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C7AFEF-8A71-4137-90FF-BDFED2262279}.Debug|x86.ActiveCfg = Debug|x86
+		{F6C7AFEF-8A71-4137-90FF-BDFED2262279}.Debug|x86.Build.0 = Debug|x86
+		{F6C7AFEF-8A71-4137-90FF-BDFED2262279}.Release|x86.ActiveCfg = Release|x86
+		{F6C7AFEF-8A71-4137-90FF-BDFED2262279}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ProcessMonitor.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = Hierarchical
+		$1.ResourceNamePolicy = FileName
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 136
+		$2.TabsToSpaces = False
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/plain
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 148
+		$3.TabsToSpaces = False
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $4
+		$4.IndentSwitchBody = True
+		$4.AlignEmbeddedIfStatements = False
+		$4.AnonymousMethodBraceStyle = NextLine
+		$4.PropertyGetBraceStyle = NextLine
+		$4.PropertySetBraceStyle = NextLine
+		$4.EventAddBraceStyle = NextLine
+		$4.EventRemoveBraceStyle = NextLine
+		$4.StatementBraceStyle = NextLine
+		$4.BeforeMethodDeclarationParentheses = False
+		$4.BeforeMethodCallParentheses = False
+		$4.BeforeConstructorDeclarationParentheses = False
+		$4.BeforeIndexerDeclarationBracket = False
+		$4.BeforeDelegateDeclarationParentheses = False
+		$4.AfterDelegateDeclarationParameterComma = True
+		$4.NewParentheses = False
+		$4.SpacesBeforeBrackets = False
+		$4.inheritsSet = Mono
+		$4.inheritsScope = text/x-csharp
+		$4.scope = text/x-csharp
+		$0.ChangeLogPolicy = $5
+		$5.UpdateMode = ProjectRoot
+		$5.MessageStyle = $6
+		$6.Indent = 
+		$6.LastFilePostfix = "@:\n  "
+		$6.IncludeDirectoryPaths = True
+		$6.Wrap = False
+		$5.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
